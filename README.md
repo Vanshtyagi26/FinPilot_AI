@@ -121,3 +121,6 @@ The backend exposes REST endpoints under `/api` for:
 ## License
 
 This project is currently distributed under the MIT license.
+
+# Live Demo 
+`https://finpilot-ai-frontend-rjvd.onrender.com/`
